@@ -1,0 +1,1 @@
+w3.slideshow(".images", 10000);

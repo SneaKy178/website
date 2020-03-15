@@ -1,0 +1,15 @@
+
+nav {
+    margin-bottom: 50px;
+}
+
+body {
+    background-image: linear-gradient(to right, blue, cyan);
+    background-size: cover;
+}
+
+#hp {
+    border: 2px solid white;
+    color: white;
+    padding: 5px;
+}
