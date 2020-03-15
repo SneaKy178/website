@@ -13,3 +13,9 @@ body {
     color: white;
     padding: 5px;
 }
+
+#images img {
+    border : 2px solid white;
+    padding: 15px;
+    border-radius: 25px;
+}
