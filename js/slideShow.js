@@ -1,1 +1,1 @@
-w3.slideshow(".images", 10000);
+w3.slideshow(".images", 5000);
