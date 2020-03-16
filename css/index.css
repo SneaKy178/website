@@ -1,23 +1,21 @@
-
 nav {
-    margin-bottom: 50px;
+  margin-bottom: 50px;
 }
 
 body {
-    background-image: linear-gradient(to right, blue, cyan);
-    background-size: cover;
+  background-image: linear-gradient(to right, blue, cyan);
+  background-size: cover;
 }
 
 #hp {
-    border: 2px solid white;
-    color: white;
-    padding: 5px;
+  border: 2px solid white;
+  color: white;
+  padding: 5px;
 }
 
 #images img {
-    border : 2px solid white;
-    padding: 15px;
-    border-radius: 25px;
-    width: 100%;
+  border: 2px solid white;
+  padding: 15px;
+  border-radius: 25px;
+  width: 100%;
 }
-
